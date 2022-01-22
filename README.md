@@ -1,6 +1,6 @@
 # benfords_law_test
 
-This notebook defines a function which subjects an array-like series of numbers to a chi-squared test for goodness-of-fit to Benford's Law.
+This notebook defines a Python function which subjects an array-like series of numbers to a chi-squared test for goodness-of-fit to Benford's Law.
 
 In this test, following convention applies:
 
